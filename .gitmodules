@@ -1,0 +1,9 @@
+[submodule "aoc21"]
+	path = aoc21
+	url = git@github.com:maakep/aoc21.git
+[submodule "aoc22"]
+	path = aoc22
+	url = git@github.com:maakep/aoc22.git
+[submodule "aoc23"]
+	path = aoc23
+	url = git@github.com:maakep/aoc23.git
